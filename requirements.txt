@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+pillow
+opencv-python
+tqdm
+flask
+requests
+tensorflow
+ipykernel
+scipy
+sklearn
